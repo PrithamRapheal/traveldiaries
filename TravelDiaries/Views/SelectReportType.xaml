@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="TravelDiaries.Views.SelectReportType"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Views="clr-namespace:TravelDiaries.Views"
+             xmlns:local="clr-namespace:TravelDiaries.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800" Loaded="UserControl_Loaded">
+    <Grid>
+        <Image Source="/Images/selectionbg.jpg" Stretch="Fill"/>
+        <Button x:Name="btnMasterReport" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="76,124,583,0" VerticalAlignment="Top" Width="141" Height="103" Background="Azure" Click="BtnMasterReport_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="/Images/Report-Icon.png" Height="50" Width="124"/>
+                <Label Content="Master" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Label Content="Report Selection" Background="Black" Opacity="0.6" HorizontalAlignment="Center" Height="82" Margin="251,16,248,0" VerticalAlignment="Top" Width="301" Foreground="White" FontSize="40"/>
+        <Button x:Name="btnExpenses" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="340,124,319,0" VerticalAlignment="Top" Width="141" Height="103" Background="Azure" Click="BtnExpenses_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="/TravelDiaries;component/Images/Report-Icon.png" Height="50" Width="124"/>
+                <Label Content="Expenses" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnInvoice" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="604,124,55,0" VerticalAlignment="Top" Width="141" Height="103" Background="Azure" Click="BtnInvoice_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="/TravelDiaries;component/Images/Report-Icon.png" Height="50" Width="124"/>
+                <Label Content="Invoice" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Rectangle Fill="Black" Height="331" RadiusY="10" RadiusX="10" VerticalAlignment="Top" Opacity="0.6" RenderTransformOrigin="0.5,0.5" Margin="21,249,14,0"/>
+        <Views:MainFooterView x:Name="WindowFooter" Margin="33,267,25,36"/>
+        <Button x:Name="btnClose" Content="X" FontSize="24" Background="Red" FontWeight="Bold" HorizontalAlignment="Right" Margin="748,13,10,0" VerticalAlignment="Top" Width="42" Height="40" Click="BtnClose_Click"/>
+    </Grid>
+</UserControl>

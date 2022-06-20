@@ -1,0 +1,87 @@
+﻿<UserControl x:Class="TravelDiaries.Views.TourPlanningView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TravelDiaries.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="1024">
+    <Grid HorizontalAlignment="Center">
+        <Image Source="/Images/countrybg.jpg" Stretch="Fill"/>
+        <Label Content="Tour" HorizontalAlignment="Left" Height="67" Margin="417,3,0,0" VerticalAlignment="Top" Width="330" Foreground="White" FontSize="40"/>
+        <Label Content="Tour ID" HorizontalAlignment="Left" Height="44" Margin="61,84,0,0" VerticalAlignment="Top" Width="130" Foreground="White" FontSize="18"/>
+        <Label Content="Package Name" HorizontalAlignment="Left" Height="44" Margin="61,136,0,0" VerticalAlignment="Top" Width="160" Foreground="White" FontSize="18"/>
+        <Label Content="Start Date" HorizontalAlignment="Left" Height="44" Margin="61,188,0,0" VerticalAlignment="Top" Width="124" Foreground="White" FontSize="18"/>
+        <Label Content="Customer" HorizontalAlignment="Left" Height="44" Margin="61,236,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <Label Content="Chauffer" HorizontalAlignment="Left" Height="44" Margin="59,282,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="233,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtTourID" IsEnabled="False"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="233,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtPackageName" IsEnabled="False"/>
+        <DatePicker HorizontalAlignment="Left" Height="24" Margin="233,194,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="dtStart"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="233,242,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtCustomer" IsEnabled="False"/>
+
+        <ComboBox HorizontalAlignment="Left" Height="24" Margin="231,288,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="cmbChauffer"/>
+        <Button HorizontalAlignment="Center" ToolTip="Search" VerticalAlignment="Top" Width="36" Margin="426,76,562,0" x:Name="btnSearchTour" Click="BtnSearchTour_Click" Height="40">
+            <Image Source="/TravelDiaries;component/Images/search.png" Stretch="Fill" Height="34" Width="31" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button HorizontalAlignment="Center" ToolTip="Search" VerticalAlignment="Top" Width="36" Margin="426,133,562,0" x:Name="btnAddPackage" Click="BtnAddPackage_Click" Height="40">
+            <Image Source="/TravelDiaries;component/Images/add.png" Stretch="Fill" Height="34" Width="31" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button HorizontalAlignment="Center" ToolTip="Search" VerticalAlignment="Top" Width="36" Margin="428,232,560,0" x:Name="btnAddCustomer" Click="BtnAddCustomer_Click" Height="40">
+            <Image Source="/TravelDiaries;component/Images/add.png" Stretch="Fill" Height="34" Width="31" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <ListView HorizontalAlignment="Center" x:Name="listPackages" Height="187" Margin="572,126,52,0" VerticalAlignment="Top" Width="400" FontFamily="calibri" FontSize="12" FontWeight="SemiBold">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Excursion" Width="150" DisplayMemberBinding="{Binding Excursion_Name}" />
+                    <GridViewColumn Header="District" Width="150" DisplayMemberBinding="{Binding District_Name}" />
+                    <GridViewColumn Header="No of Days" Width="100" DisplayMemberBinding="{Binding No_Of_Days}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Excursion Details" HorizontalAlignment="Center" Height="48" Margin="566,72,0,0" VerticalAlignment="Top" Width="388" Foreground="White" FontSize="30"/>
+        <Button HorizontalAlignment="Left" ToolTip="Add" VerticalAlignment="Top" Width="48" Margin="634,582,0,0" x:Name="btnAdd" Click="BtnAdd_Click">
+            <Image Source="/TravelDiaries;component/Images/add.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <Button HorizontalAlignment="Left" ToolTip="Edit" VerticalAlignment="Top" Width="48" Margin="714,582,0,0" x:Name="btnEdit" Click="BtnEdit_Click">
+            <Image Source="/TravelDiaries;component/Images/edit.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <Button HorizontalAlignment="Left" ToolTip="Delete" VerticalAlignment="Top" Width="46" Margin="794,582,0,0" x:Name="btnDelete" Click="BtnDelete_Click">
+            <Image Source="/TravelDiaries;component/Images/del.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <Button HorizontalAlignment="Left" ToolTip="Save" VerticalAlignment="Top" Width="48" Margin="874,582,0,0" x:Name="btnSave" Click="BtnSave_Click">
+            <Image Source="/TravelDiaries;component/Images/save.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <ListView HorizontalAlignment="Center" x:Name="listHotels" Height="186" Margin="574,374,50,0" VerticalAlignment="Top" Width="400" FontFamily="calibri" FontSize="12" FontWeight="SemiBold">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Hotel" Width="100" DisplayMemberBinding="{Binding Hotel_Name}" />
+                    <GridViewColumn Header="Room Type" Width="100" DisplayMemberBinding="{Binding Room_Type}" />
+                    <GridViewColumn Header="Booking Type" Width="100" DisplayMemberBinding="{Binding Booking_Type}" />
+                    <GridViewColumn Header="Rate" Width="100" DisplayMemberBinding="{Binding Hotel_Total}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Hotel Details" HorizontalAlignment="Center" Height="48" Margin="568,320,0,0" VerticalAlignment="Top" Width="388" Foreground="White" FontSize="30"/>
+        <Label Content="Hotel" HorizontalAlignment="Left" Height="44" Margin="62,346,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="232,351,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtHotel" IsEnabled="False"/>
+        <Button HorizontalAlignment="Center" ToolTip="Search" VerticalAlignment="Top" Width="36" Margin="428,342,560,0" x:Name="btnAddHotel" Click="BtnAddHotel_Click" Height="40">
+            <Image Source="/TravelDiaries;component/Images/add.png" Stretch="Fill" Height="34" Width="31" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Label Content="Room Type" HorizontalAlignment="Left" Height="44" Margin="61,383,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <ComboBox HorizontalAlignment="Left" Height="24" Margin="231,390,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="cmbRoomType" IsEnabled="True"/>
+        <Label Content="Booking Type" HorizontalAlignment="Left" Height="44" Margin="60,426,0,0" VerticalAlignment="Top" Width="130" Foreground="White" FontSize="18" />
+        <ComboBox HorizontalAlignment="Left" Height="24" Margin="232,432,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="cmbBookingType" IsEnabled="True" SelectionChanged="CmbBookingType_SelectionChanged"/>
+        <Label Content="Rate" HorizontalAlignment="Left" Height="44" Margin="60,467,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="232,473,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtRate" IsEnabled="False"/>
+        <!--<GroupBox Header="Add Hotel" Foreground="White" HorizontalAlignment="Left" Height="230" Margin="39,328,0,0" VerticalAlignment="Top" Width="441"/>-->
+        <Button HorizontalAlignment="Left" ToolTip="Add To Hotel List" VerticalAlignment="Top" Width="45" Margin="115,570,0,0" x:Name="btnAddToHotelGrid" Click="BtnAddToHotelGrid_Click" Height="42">
+            <Image Source="/TravelDiaries;component/Images/Arrow-Right-2-icon.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <Button HorizontalAlignment="Left" ToolTip="Remove From List" VerticalAlignment="Top" Width="56" Margin="320,570,0,0" x:Name="btnRemoveFromHotelGrid" Click="BtnRemoveFromHotelGrid_Click" Height="46">
+            <Image Source="/TravelDiaries;component/Images/remove.png" Stretch="Fill" Height="40" Width="37"/>
+        </Button>
+        <Button x:Name="btnClose" Content="X" FontSize="24" Background="Red" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,5,10,0" VerticalAlignment="Top" Width="42" Height="40" Click="BtnClose_Click" />
+        <Label Content="Stay Days" HorizontalAlignment="Left" Height="44" Margin="61,505,0,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="233,511,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtHotelDays" IsEnabled="True"/>
+    </Grid>
+</UserControl>

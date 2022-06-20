@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="TravelDiaries.Views.SearchViews.SearchHotelView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TravelDiaries.Views.SearchViews"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid>
+        <Image Source="/Images/searchBG.jpg" Stretch="Fill"/>
+        <ListView HorizontalAlignment="Center" x:Name="listHotel" Height="357" Margin="61,136,439,0" VerticalAlignment="Top" Width="300" FontFamily="calibri" FontSize="12" FontWeight="SemiBold" SelectionChanged="ListHotel_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Hotel ID" Width="100" DisplayMemberBinding="{Binding Hotel_ID}" />
+                    <GridViewColumn Header="Hotel Name" Width="200" DisplayMemberBinding="{Binding Hotel_Name}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView HorizontalAlignment="Center" x:Name="listRates" Height="357" Margin="422,134,40,0" VerticalAlignment="Top" Width="340" FontFamily="calibri" FontSize="12" FontWeight="SemiBold" IsEnabled="False">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Room Type" Width="100" DisplayMemberBinding="{Binding Room_Type}" />
+                    <GridViewColumn Header="RO Rate" Width="60" DisplayMemberBinding="{Binding RO_Rate, StringFormat={}{0:00.00}}" />
+                    <GridViewColumn Header="BB Rate" Width="60" DisplayMemberBinding="{Binding BB_Rate, StringFormat={}{0:00.00}}" />
+                    <GridViewColumn Header="HB Rate" Width="60" DisplayMemberBinding="{Binding HB_Rate, StringFormat={}{0:00.00}}" />
+                    <GridViewColumn Header="FB Rate" Width="60" DisplayMemberBinding="{Binding FB_Rate, StringFormat={}{0:00.00}}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Content="OK" HorizontalAlignment="Center" Margin="648,533,14,0" VerticalAlignment="Top" Width="138" Height="40" x:Name="btnok" FontWeight="SemiBold" FontFamily="Calibri" FontSize="16" Background="#FFDDDDDD" Click="btnok_Click"/>
+        <Label HorizontalAlignment="Center" Margin="63,78,634,0" Content="Hotel ID" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" FontWeight="SemiBold" Foreground="White" Width="103"/>
+        <Label HorizontalAlignment="Center" Margin="418,78,288,0" Content="Hotel Name" VerticalAlignment="Top" FontFamily="Calibri" FontSize="14" FontWeight="SemiBold" Foreground="White" Width="94"/>
+        <Label HorizontalAlignment="Center" Margin="313,15,279,0" Content="Search Hotels" FontFamily="Calibri" FontSize="24" FontWeight="Bold" VerticalAlignment="Top" Foreground="White" Width="208"/>
+        <TextBox HorizontalAlignment="Center" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Margin="135,77,457,0" FontFamily="Calibri" FontSize="14" x:Name="txtID" TextChanged="TxtID_TextChanged" RenderTransformOrigin="0.273,0.574"/>
+        <TextBox HorizontalAlignment="Center" Height="25" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Margin="532,77,60,0" FontFamily="Calibri" FontSize="14" x:Name="txtName" TextChanged="TxtName_TextChanged"/>
+        <Button x:Name="btnClose" Content="X" FontSize="24" Background="Red" FontWeight="Bold" HorizontalAlignment="Right" Margin="0,8,7,0" VerticalAlignment="Top" Width="42" Height="40" Click="BtnClose_Click"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,85 @@
+﻿<Window x:Class="TravelDiaries.MainMenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TravelDiaries"
+        mc:Ignorable="d"
+        Title="Main Menu" Height="768" Width="1024" WindowStyle="None" WindowState="Maximized" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Top">
+        <Image Source="/Images/countrybg.jpg" Stretch="Fill"/>
+        <Label Content="Main Menu" HorizontalAlignment="Center" Height="82" Margin="401,31,333,0" VerticalAlignment="Top" Width="282" Foreground="White" FontSize="40"/>
+
+        <!--<Grid x:Name="AdminMenu" Visibility="Visible" HorizontalAlignment="Stretch">-->
+        <Button x:Name="btnUser" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="94,126,718,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnUser_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="/Images/88-512.png" Height="50" Width="200"/>
+                <Label Content="User" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnTour" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="423,126,389,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnBookTour_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/tour.png" Height="50" Width="200"/>
+                <Label Content="Tour" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnPackages" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="752,126,60,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnPackages_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/packages.png" Height="50" Width="200"/>
+                <Label Content="Packages" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnChauffer" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="423,310,386,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnChauffer_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/chauffeur.png" Height="50" Width="200"/>
+                <Label Content="Chauffer" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnHotel" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="94,310,718,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnHotel_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/hotel.png" Height="50" Width="200"/>
+                <Label Content="Hotel" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnExcursion" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="752,310,58,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnExcursion_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/excursion.png" Height="50" Width="200"/>
+                <Label Content="Excursion" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnCustomer" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="94,494,718,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnCustomer_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/AddUserIcon.png" Height="50" Width="200"/>
+                <Label Content="Customer" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnOther" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="423,494,388,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnOther_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/other.png" Height="50" Width="200"/>
+                <Label Content="Other Masters" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnReports" HorizontalAlignment="Center" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="752,494,52,0" VerticalAlignment="Top" Width="204" Height="144" Background="AliceBlue" Click="BtnReports_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Image Margin="5,0,0,0" Source="Images/Report-Icon.png" Height="50" Width="200"/>
+                <Label Content="Reports" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnLogOut" HorizontalAlignment="Right" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="0,14,14,0" VerticalAlignment="Top" Width="96" Height="87" Background="AliceBlue" Click="btnExit_Click">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center" Height="84" Width="97">
+                <Image Margin="5,0,0,0" Source="Images/Logout-icon.png" Height="50" Width="83"/>
+                <Label Content="Log Out" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20"/>
+            </StackPanel>
+        </Button>
+        <Button x:Name="btnDashboard" HorizontalAlignment="Right" HorizontalContentAlignment="Left" BorderBrush="Black" Margin="0,658,58,0" VerticalAlignment="Top" Width="187" Height="63" Background="LightSteelBlue" Click="BtnDashboard_Click">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Height="84" Width="199">
+                <Image Margin="5,17,0,17" Source="Images/Dash.png" Height="50" Width="70"/>
+                <Label Content="Dash Board" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontSize="20" Margin="0,24" Width="113"/>
+            </StackPanel>
+        </Button>
+
+        <!--</Grid>-->
+
+
+    </Grid>
+</Window>

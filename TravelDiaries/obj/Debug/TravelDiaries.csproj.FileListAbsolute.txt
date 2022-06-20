@@ -1,0 +1,589 @@
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe.config
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.pdb
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\EnvDTE.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\stdole.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\EnvDTE80.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj80.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj2.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.pdb
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csprojAssemblyReference.cache
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe.config
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\App.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_Content.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.cache
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.lref
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.baml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.g.resources
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.Properties.Resources.resources
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.GenerateResource.cache
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\RdlCompile.cache
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\RdlCompile.compiled
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CoreCompileInputs.cache
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CopyComplete
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.pdb
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Data.Common.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Compression.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Http.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Sockets.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Security.SecureString.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.g.cs
+C:\Users\Magnex Desktop\Desktop\Travel Diary DBMS\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe.config
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.pdb
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Data.Common.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Compression.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Http.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Sockets.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Security.SecureString.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\EnvDTE.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\stdole.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\EnvDTE80.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj80.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\VSLangProj2.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.pdb
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe.config
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\App.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_Content.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.cache
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.lref
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.baml
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.g.resources
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.Properties.Resources.resources
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.GenerateResource.cache
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\RdlCompile.cache
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\RdlCompile.compiled
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CoreCompileInputs.cache
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CopyComplete
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.pdb
+C:\Users\Magnex Desktop\Desktop\TravelDiaries\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csprojAssemblyReference.cache
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe.config
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.exe
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\TravelDiaries.pdb
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Data.Common.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Globalization.Extensions.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Compression.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Http.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Net.Sockets.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Security.SecureString.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Overlapped.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\EnvDTE.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\stdole.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\Microsoft.MSXML.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.pdb
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.pdb
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\LiveCharts.Wpf.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\SmtpServer.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Buffers.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.IO.Pipelines.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Memory.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Numerics.Vectors.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csprojAssemblyReference.cache
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe.config
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\App.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_Content.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.cache
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries_MarkupCompile.lref
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\DashboardWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ChaufferExpenses.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\CustomerByCountry.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\ExcursionExpenses.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\HotelExpenses.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\MostPaidChauffer.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Dashboard\TotalExpenses.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\LoginWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\MainMenuWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\MasterWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\ReportsWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TourPlanningWindow.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ChauffeurView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\CountryDistrictView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\CustomerView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\Dashboard.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\EmailInvoiceView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ExcursionView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\HotelView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\LoginView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\MainFooterView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\MainMenuView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\PackagesView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\ReportsView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchChauffeurView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCountryView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchCustomerView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchDistrictView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchExcursionView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchHotelView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchPackagesView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchTourView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SearchViews\SearchUserView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\SelectReportType.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\TourPlanningView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\Views\UserView.baml
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.g.resources
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.Properties.Resources.resources
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.GenerateResource.cache
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CoreCompileInputs.cache
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.csproj.CopyComplete
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.exe
+D:\Pritham\TravelDiaries\TravelDiaries\obj\Debug\TravelDiaries.pdb

@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="TravelDiaries.Views.UserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TravelDiaries.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="600" Loaded="UserControl_Loaded">
+    <Grid>
+        <Image Source="/Images/countrybg.jpg" Stretch="Fill"/>
+        <Label Content="User" HorizontalAlignment="Center" Height="66" Margin="0,7,0,0" VerticalAlignment="Top" Width="97" Foreground="White" FontSize="40"/>
+        <Label Content="User ID" HorizontalAlignment="Center" Height="44" Margin="129,86,341,0" VerticalAlignment="Top" Width="130" Foreground="White" FontSize="18"/>
+        <Label Content="User Name" HorizontalAlignment="Center" Height="44" Margin="129,142,349,0" VerticalAlignment="Top" Width="122" Foreground="White" FontSize="18"/>
+        <Label Content="User Password" HorizontalAlignment="Center" Height="44" Margin="131,185,345,0" VerticalAlignment="Top" Width="124" Foreground="White" FontSize="18"/>
+        <Label Content="User Type" HorizontalAlignment="Center" Height="44" Margin="134,240,362,0" VerticalAlignment="Top" Width="104" Foreground="White" FontSize="18"/>
+        <TextBox HorizontalAlignment="Center" Height="24" Margin="90,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtUserID"/>
+        <TextBox HorizontalAlignment="Center" Height="24" Margin="90,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtUserName"/>
+        <TextBox HorizontalAlignment="Center" Height="24" Margin="90,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="txtPassword"/>
+        <ComboBox HorizontalAlignment="Center" Height="24" Margin="90,252,0,0" VerticalAlignment="Top" Width="176" FontSize="14" FontFamily="Calibri" x:Name="cmbUserType">
+            <!--<ComboBoxItem Content="Admin" Tag="ADM"/>
+            <ComboBoxItem Content="Accounts Manager" Tag="MNG"/>
+            <ComboBoxItem Content="Executive" Tag="RCT"/>-->
+        </ComboBox>
+        <Button HorizontalAlignment="Center" ToolTip="Add" VerticalAlignment="Top" Width="48" Margin="136,321,416,0" x:Name="btnAdd" Click="BtnAdd_Click">
+            <Image Source="/Images/add.png" Stretch="Fill" Height="40" Width="37" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button HorizontalAlignment="Center" ToolTip="Edit" VerticalAlignment="Top" Width="48" Margin="223,321,329,0" x:Name="btnEdit" Click="BtnEdit_Click">
+            <Image Source="/Images/edit.png" Stretch="Fill" Height="40" Width="37" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button HorizontalAlignment="Center" ToolTip="Delete" VerticalAlignment="Top" Width="46" Margin="312,321,242,0" x:Name="btnDelete" Click="BtnDelete_Click">
+            <Image Source="/Images/del.png" Stretch="Fill" Height="40" Width="37" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button HorizontalAlignment="Center" ToolTip="Save" VerticalAlignment="Top" Width="48" Margin="394,321,158,0" x:Name="btnSave" Click="BtnSave_Click">
+            <Image Source="/Images/save.png" Stretch="Fill" Height="40" Width="37" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+        <Button x:Name="btnClose" Content="X" FontSize="24" Background="Red" FontWeight="Bold" HorizontalAlignment="Center" Margin="548,10,0,0" VerticalAlignment="Top" Width="42" Height="40" Click="BtnClose_Click"/>
+        <Button HorizontalAlignment="Center" ToolTip="Search" VerticalAlignment="Top" Width="49" Margin="461,82,90,0" x:Name="btnSearchUser" Click="BtnSearchUser_Click" Height="47">
+            <Image Source="/TravelDiaries;component/Images/search.png" Stretch="Fill" Height="40" Width="37" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        </Button>
+    </Grid>
+</UserControl>
